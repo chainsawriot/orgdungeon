@@ -1,0 +1,566 @@
+* Plane 1 (Press Tab to start)
+
+You wake up in the first place. You have no idea why you have been locked in this place.
+
+Beside you, you see a robot. There is nothing else in this place. 
+
+[img]
+
+The robot also sees you and it says:
+
+"Hi! _Emi_ is here. Welcome to the first plane. And actually Emi's preferred pronoun is 'she'."
+
+You look at her and her "stomach" is actually a computer terminal. And the terminal displays:
+
+ __          ___                                                  _                  ___  
+ \ \        / / |                                                | |                |__ \ 
+  \ \  /\  / /| |__  _   _    __ _ _ __ ___   _   _  ___  _   _  | |__   ___ _ __ ___  ) |
+   \ \/  \/ / | '_ \| | | |  / _` | '__/ _ \ | | | |/ _ \| | | | | '_ \ / _ \ '__/ _ \/ / 
+    \  /\  /  | | | | |_| | | (_| | | |  __/ | |_| | (_) | |_| | | | | |  __/ | |  __/_|  
+     \/  \/   |_| |_|\__, |  \__,_|_|  \___|  \__, |\___/ \__,_| |_| |_|\___|_|  \___(_)  
+                      __/ |                    __/ |                                      
+                     |___/                    |___/                                       
+
+
+Actually, it's you who wanted to ask the same question. And then the display changes:
+
+  ______    _ _                 _   _            _           _                   _   _                 
+ |  ____|  | | |               | | | |          (_)         | |                 | | (_)                
+ | |__ ___ | | | _____      __ | |_| |__   ___   _ _ __  ___| |_ _ __ _   _  ___| |_ _  ___  _ __  ___ 
+ |  __/ _ \| | |/ _ \ \ /\ / / | __| '_ \ / _ \ | | '_ \/ __| __| '__| | | |/ __| __| |/ _ \| '_ \/ __|
+ | | | (_) | | | (_) \ V  V /  | |_| | | |  __/ | | | | \__ \ |_| |  | |_| | (__| |_| | (_) | | | \__ \
+ |_|  \___/|_|_|\___/ \_/\_/    \__|_| |_|\___| |_|_| |_|___/\__|_|   \__,_|\___|\__|_|\___/|_| |_|___/
+                                                                                                       
+
+
+And emi says: "Emi will show you why you are here and how to get out of this dungeon."
+
+You think: What? I am in a dungeon? 
+
+Emi's terminal display the following instructions:
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+The following is a _code block_. You can _evaluate_ the following code block by moving the cursor inside it and then press ~C-c C-c. Depending on your setting, it might ask you to confirm the evaluation of the code inside it.
+-----------------------------------------------------------------------------------------------------------------------
+You are not 100% sure what the instructions mean. But you figured to give it a try. And you see something below, perhaps that's a code block.
+
+#+BEGIN_SRC emacs-lisp
+(load-file "source.el")
+(skip-to-plane 10)
+#+END_SRC
+
+* Plane 2
+a
+* Plane 3
+a
+* Plane 4
+a
+* Plane 5
+a
+* Plane 6
+a
+* Plane 7
+a
+* Plane 8
+a
+* Plane 9
+a
+* Plane 10
+
+After you "evaluated the code" inside that "code block" (whatever that means), you and Emi jumped to another place. It seems that _"evaluate the code" is just a fancy way to say "run the code"_.
+
+You look around this place. Unlike the last place, this plane does have something: a big sign
+
+'########::'##::::::::::'###::::'##::: ##:'########:::::::'##:::::'#####:::
+ ##.... ##: ##:::::::::'## ##::: ###:: ##: ##.....::::::'####::::'##.. ##::
+ ##:::: ##: ##::::::::'##:. ##:: ####: ##: ##:::::::::::.. ##:::'##:::: ##:
+ ########:: ##:::::::'##:::. ##: ## ## ##: ######::::::::: ##::: ##:::: ##:
+ ##.....::: ##::::::: #########: ##. ####: ##...:::::::::: ##::: ##:::: ##:
+ ##:::::::: ##::::::: ##.... ##: ##:. ###: ##::::::::::::: ##:::. ##:: ##::
+ ##:::::::: ########: ##:::: ##: ##::. ##: ########:::::'######::. #####:::
+..:::::::::........::..:::::..::..::::..::........::::::......::::.....::::
+
+"You are trapped in a dungeon called _dungeon.org_." Emi says.
+
+Dungeon dot org? Is it a website? You asked.
+
+"No. This is how the whole thing is represented inside Emi. To say it is a 'dungeon' is not correct. It is more like a collection of parallel universes called planes. Each plane is one parallel universe and there should be a plane that represents the universe that you are familiar with. Your plane. Your world, you could say. When you arrive at your plane, you can live like you usually do."
+
+Holy moly! Do you know which plane is my plane? Is it the Plane 10? You ask.
+
+"Emi doesn't know which plane is your universe. But Emi and you can explore all the planes together and find out your plane."
+
+Obviously Plane 10 is not my plane. Let's get out of here. You ask.
+
+"Emi and you can't just 'get out of here'." Emi says.
+
+Ah what? You ask.
+
+"Inside Emi there is a program called _Org-mode_. You need to talk to that program to escape a plane." Emi says.
+
+There is one more thing you can't understand what Emi has said. What's "Odd Mold"? Such an odd name.
+
+But whatever. You tell Emi, in an ordering tone: whatever odd mold, escape this plane!
+
+"No. Emi's Org-mode doesn't speak English. Emi's Org-mode can only speak a language called *Emacs Lisp*. Or elisp for ..."
+
+Emi stops speaking. And her stomach terminal display changes again.
+
+  ______    _ _                 _   _            _           _                   _   _                 
+ |  ____|  | | |               | | | |          (_)         | |                 | | (_)                
+ | |__ ___ | | | _____      __ | |_| |__   ___   _ _ __  ___| |_ _ __ _   _  ___| |_ _  ___  _ __  ___ 
+ |  __/ _ \| | |/ _ \ \ /\ / / | __| '_ \ / _ \ | | '_ \/ __| __| '__| | | |/ __| __| |/ _ \| '_ \/ __|
+ | | | (_) | | | (_) \ V  V /  | |_| | | |  __/ | | | | \__ \ |_| |  | |_| | (__| |_| | (_) | | | \__ \
+ |_|  \___/|_|_|\___/ \_/\_/    \__|_| |_|\___| |_|_| |_|___/\__|_|   \__,_|\___|\__|_|\___/|_| |_|___/
+                                                                                                       
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+I am Org-mode, the communication logic of Emi. Emi said it imprecisely. Actually, I know English. At least, I can display instructions to you precisely in English. But you must talk to me in Emacs Lisp. Or more precisely, you need to write program in Emacs Lisp to instruct me to make your jump between planes. The locations in parallel universes need to be programmed precisely and English is not precise enough for that.
+
+But you might not know my very precise mother tongue. But luckily, all the things inside Emi are _self-documented_. You need to know how to use Emi's "help system". The function that you need to use to break out of this plane is called *emi-escape-10*. What I want you to do is to learn how to use that program through Emi's help system. The key combination is ~C-h f~ (You can remember it as: /C/ontrol /h/elp for /f/uctions). And then enter the name of the function. Follow the documentation to escape the plane.
+
+BTW, you might have seen things such as *emi-escape-10*, _dungeon.org_ and ~C-h f~. The formatting is called "markup". We will use these formats to represent function names, emphases (keywords, variable names), and key combinations respectively. But their actually names are emi-escape-10, dungeon.org and C-h f. You don't need to consider those markups when you needs to use these names in your program. As the communication logic of Emi, those markups improve our communication.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Again, you don't understand 100% what the instructions say. But you decided to give it a try.
+
+* Plane 11
+a
+* Plane 12
+Running the function, you and Emi jumped to another plane. That was easy, you think.
+
+Again, this plane doesn't look like the world you used to live.
+
+'########::'##::::::::::'###::::'##::: ##:'########:::::::'##::::'#######::
+ ##.... ##: ##:::::::::'## ##::: ###:: ##: ##.....::::::'####:::'##.... ##:
+ ##:::: ##: ##::::::::'##:. ##:: ####: ##: ##:::::::::::.. ##:::..::::: ##:
+ ########:: ##:::::::'##:::. ##: ## ## ##: ######::::::::: ##::::'#######::
+ ##.....::: ##::::::: #########: ##. ####: ##...:::::::::: ##:::'##::::::::
+ ##:::::::: ##::::::: ##.... ##: ##:. ###: ##::::::::::::: ##::: ##::::::::
+ ##:::::::: ########: ##:::: ##: ##::. ##: ########:::::'######: #########:
+..:::::::::........::..:::::..::..::::..::........::::::......::.........::
+
+OK, this is Plane 12. There should be a function called *emi-escape-12*, right? You ask.
+
+"Yes! Emi has *emi-esca*...!" Emi says.
+
+Emi stops speaking. And her stomach terminal display changes again.
+
+  ______    _ _                 _   _            _           _                   _   _                 
+ |  ____|  | | |               | | | |          (_)         | |                 | | (_)                
+ | |__ ___ | | | _____      __ | |_| |__   ___   _ _ __  ___| |_ _ __ _   _  ___| |_ _  ___  _ __  ___ 
+ |  __/ _ \| | |/ _ \ \ /\ / / | __| '_ \ / _ \ | | '_ \/ __| __| '__| | | |/ __| __| |/ _ \| '_ \/ __|
+ | | | (_) | | | (_) \ V  V /  | |_| | | |  __/ | | | | \__ \ |_| |  | |_| | (__| |_| | (_) | | | \__ \
+ |_|  \___/|_|_|\___/ \_/\_/    \__|_| |_|\___| |_|_| |_|___/\__|_|   \__,_|\___|\__|_|\___/|_| |_|___/
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+It's me again. I want to let you know that Emi has an important key combination called *keyboard-quit*. It is mapped precisely to ~C-g~. Pressing such key combination stops precisely the previous key combination. You can give it a try by first pressing ~M-x~, typing in some characters, and then press ~C-g~.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The instructions are nonsense! You are not being helpful, org-mode! Your curse.
+
+"Yes! Emi has *emi-escape-12*!" Emi repeats her unfinished sentence.
+
+From the previous instructions, you know that ~M-x~ is probably the way to execute a function. Maybe you can do the same for *emi-escape-12*?
+
+#+Recap: Emi's toolbox
+
+|-----------------------------+-----------------------------------------------------------|
+| Technique                   | How to do that                                            |
+|-----------------------------+-----------------------------------------------------------|
+| Evaluate a code block       | Move the cursor inside the code block and press ~C-c C-c~ |
+|                             |                                                           |
+| Emi's help system: Function | ~C-h f~ (\C\ontrol \h\elp \f\unction)                     |
+|-----------------------------+-----------------------------------------------------------|
+
+* Plane 13
+OMG! It's getting more tricky. And then you realise "same-piece" is an anagram of "emi-escape". You and Emi jumped to another plane.
+
+'########::'##::::::::::'###::::'##::: ##:'########:::::::'##::::'#######::
+ ##.... ##: ##:::::::::'## ##::: ###:: ##: ##.....::::::'####:::'##.... ##:
+ ##:::: ##: ##::::::::'##:. ##:: ####: ##: ##:::::::::::.. ##:::..::::: ##:
+ ########:: ##:::::::'##:::. ##: ## ## ##: ######::::::::: ##::::'#######::
+ ##.....::: ##::::::: #########: ##. ####: ##...:::::::::: ##::::...... ##:
+ ##:::::::: ##::::::: ##.... ##: ##:. ###: ##::::::::::::: ##:::'##:::: ##:
+ ##:::::::: ########: ##:::: ##: ##::. ##: ########:::::'######:. #######::
+..:::::::::........::..:::::..::..::::..::........::::::......:::.......:::
+
+#+RECAP: Emi's toolbox
+
+|------------------------------+-----------------------------------------------------------|
+| Technique                    | How to do that                                            |
+|------------------------------+-----------------------------------------------------------|
+| Evaluate a code block        | Move the cursor inside the code block and press `C-c C-c` |
+| Emi's help system: Function  | C-h f (\C\ontrol \h\elp \f\unction)                       |
+| Emi's help system: check key | C-h k (\C\ontrol \h\elp \k\eys)                           |
+| Keyboard quit                | C-g                                                       |
+|------------------------------+-----------------------------------------------------------|
+
+* Plane 14
+a
+* Plane 15
+a
+* Plane 16
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+
+* Plane 17
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 18
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 19
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 20
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 21
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 22
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 23
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 24
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 25
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 26
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 27
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 28
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 29
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 30
+That was tricky. You recall. But you solved it and you and Emi jumped to another plane.
+
+'########::'##::::::::::'###::::'##::: ##:'########:::::'#######::::'#####:::
+ ##.... ##: ##:::::::::'## ##::: ###:: ##: ##.....:::::'##.... ##::'##.. ##::
+ ##:::: ##: ##::::::::'##:. ##:: ####: ##: ##::::::::::..::::: ##:'##:::: ##:
+ ########:: ##:::::::'##:::. ##: ## ## ##: ######:::::::'#######:: ##:::: ##:
+ ##.....::: ##::::::: #########: ##. ####: ##...::::::::...... ##: ##:::: ##:
+ ##:::::::: ##::::::: ##.... ##: ##:. ###: ##::::::::::'##:::: ##:. ##:: ##::
+ ##:::::::: ########: ##:::: ##: ##::. ##: ########::::. #######:::. #####:::
+..:::::::::........::..:::::..::..::::..::........::::::.......:::::.....::::
+
+Plane 30? Wow! You wonder how many planes are there. But you are more interested in escaping.
+
+You sure have *emi-escape-30*, right? You ask Emi.
+
+"Emi doesn't have *emi-escape-30*." Emi answers.
+
+Holy moly! And you query Emi's terminal. She didn't lie: She doesn't have the function *emi-escape-30*.
+
+You don't know what to do. And then Emi's stomach terminal display changes.
+
+  ______    _ _                 _   _            _           _                   _   _                 
+ |  ____|  | | |               | | | |          (_)         | |                 | | (_)                
+ | |__ ___ | | | _____      __ | |_| |__   ___   _ _ __  ___| |_ _ __ _   _  ___| |_ _  ___  _ __  ___ 
+ |  __/ _ \| | |/ _ \ \ /\ / / | __| '_ \ / _ \ | | '_ \/ __| __| '__| | | |/ __| __| |/ _ \| '_ \/ __|
+ | | | (_) | | | (_) \ V  V /  | |_| | | |  __/ | | | | \__ \ |_| |  | |_| | (__| |_| | (_) | | | \__ \
+ |_|  \___/|_|_|\___/ \_/\_/    \__|_| |_|\___| |_|_| |_|___/\__|_|   \__,_|\___|\__|_|\___/|_| |_|___/
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+It's true that Emi doesn't have the function emi-escape-30. But I can tell you that the function to escape this plane is mapped to the key combination `C-c M-o`. But I think it would be helpful to learn more about Emi's help system.
+
+You can check the "mapping" of a key combination by using Emi's help system. A key combination is always bound to a function. We can either say a function is "mapped" to a function; or a function is "bound" to a key combination. Even the arrow keys in Emi are mapped to a function!
+
+You can trigger Emi's help system for checking key combinations using `C-h k` (\C\ontrol `h`elp `k`eys). And then press the key combination you want to query. For example, you want to check the function that has been bound to `C-g`, you can press `C-g` there. And it will tell you what function the key combination is bound to. In the case of `C-g`, the documentation would say:
+
+"""
+It is bound to C-g.
+
+(keyboard-quit)
+"""
+
+The name of the function that is mapped to C-g is "keyboard-quit". You can infer it from the line (keyboard-quit).
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+OK, `C-c M-o` to escape, easy peasy.
+
+#+RECAP: Emi's toolbox
+
+|-----------------------------+-----------------------------------------------------------|
+| Technique                   | How to do that                                            |
+|-----------------------------+-----------------------------------------------------------|
+| Evaluate a code block       | Move the cursor inside the code block and press `C-c C-c` |
+|                             |                                                           |
+| Emi's help system: Function | C-h f (\C\ontrol \h\elp \f\unction)                       |
+|                             |                                                           |
+| Keyboard quit               | C-g                                                       |
+|-----------------------------+-----------------------------------------------------------|
+
+* Plane 31
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 32
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 33
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 34
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 35
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 36
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 37
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 38
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 39
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 40
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 41
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 42
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 43
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 44
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 45
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 46
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 47
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 48
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 49
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 50
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 51
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 52
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 53
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+* Plane 54
+
+Image credit
+
+https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png
+
+https://www.ascii-art-generator.org/
+
+
