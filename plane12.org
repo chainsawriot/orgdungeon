@@ -1,0 +1,43 @@
+Running the function, you and Emi jumped to another plane. That was easy, you think.
+
+Again, this plane doesn't look like the world you used to live.
+
+'########::'##::::::::::'###::::'##::: ##:'########:::::::'##::::'#######::
+ ##.... ##: ##:::::::::'## ##::: ###:: ##: ##.....::::::'####:::'##.... ##:
+ ##:::: ##: ##::::::::'##:. ##:: ####: ##: ##:::::::::::.. ##:::..::::: ##:
+ ########:: ##:::::::'##:::. ##: ## ## ##: ######::::::::: ##::::'#######::
+ ##.....::: ##::::::: #########: ##. ####: ##...:::::::::: ##:::'##::::::::
+ ##:::::::: ##::::::: ##.... ##: ##:. ###: ##::::::::::::: ##::: ##::::::::
+ ##:::::::: ########: ##:::: ##: ##::. ##: ########:::::'######: #########:
+..:::::::::........::..:::::..::..::::..::........::::::......::.........::
+
+OK, this is Plane 12. There should be a function called *emi-escape-12*, right? You ask.
+
+"Yes! Emi has *emi-esca*...!" Emi says.
+
+Emi absurdly stops speaking. And her stomach terminal display changes again.
+
+#+BEGIN_QUOTE
+FOLLOW THE INSTRUCTIONS
+- - - -
+It's me again. I want to let you know that Emi has an important key combination called *keyboard-quit*. It is mapped precisely to ~C-g~. Pressing such key combination stops precisely the previous key combination. You can give it a try by first pressing ~M-x~, typing in some characters, and then press ~C-g~.
+
+Also, you may notice that there is a new section called "Emi's toolbox". Along your travel, you will learn more about Emi's (almost limitless) functionalities.
+- - - -
+#+END_QUOTE
+
+The instructions are nonsense! You are not being helpful, org-mode! Your curse.
+
+"Yes! Emi has *emi-escape-12*!" Emi repeats her unfinished sentence.
+
+From the previous instructions, you know that ~M-x~ is probably the way to run a function. Maybe you can do the same for *emi-escape-12*?
+
+#+Recap: Emi's toolbox
+
+|-----------------------------+-----------------------------------------------------------|
+| Technique                   | How to do that                                            |
+|-----------------------------+-----------------------------------------------------------|
+| Evaluate a code block       | Move the cursor inside the code block and press ~C-c C-c~ |
+|                             |                                                           |
+| Emi's help system: Function | ~C-h f~ (\C\ontrol \h\elp \f\unction)                     |
+|-----------------------------+-----------------------------------------------------------|

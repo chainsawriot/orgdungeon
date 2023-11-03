@@ -1,0 +1,60 @@
+You and Emi jumped to another plane. It's getting more tricky. And then you realise "same-piece" is an anagram of "emi-escape". 
+
+'########::'##::::::::::'###::::'##::: ##:'########:::::::'##::::'#######::
+ ##.... ##: ##:::::::::'## ##::: ###:: ##: ##.....::::::'####:::'##.... ##:
+ ##:::: ##: ##::::::::'##:. ##:: ####: ##: ##:::::::::::.. ##:::..::::: ##:
+ ########:: ##:::::::'##:::. ##: ## ## ##: ######::::::::: ##::::'#######::
+ ##.....::: ##::::::: #########: ##. ####: ##...:::::::::: ##::::...... ##:
+ ##:::::::: ##::::::: ##.... ##: ##:. ###: ##::::::::::::: ##:::'##:::: ##:
+ ##:::::::: ########: ##:::: ##: ##::. ##: ########:::::'######:. #######::
+..:::::::::........::..:::::..::..::::..::........::::::......:::.......:::
+
+Emi runs around you like a dog and says "I know what you are going to ask Emi! Emi has *emi-escape-13*."
+
+But now you know that thing is not gonna be _that_ easy. You decide to wait for org-mode to give you the now signiture cryptic instructions.
+
+You wait and wait, but there is no update from Emi's terminal. Following the best practice, you have read the help file of *emi-escape-13*. It sure exists. But you can't run it using the ~M-x~ method.
+
+Am I getting stuck? Will I be stuck forever? You think.
+
+You reread the help file of *emi-escape-13*. There is a bit that is not familiar to you: _Please note that this is not an interactive function._
+
+What does it mean? Perhaps is this bit that makes this function not runnable using the ~M-x~ method.
+
+I am stuck. You think. Probably forever this time.
+
+Emi doesn't seem to understand the situation. She's still running around like a dog.
+
+Do you have any hints? Do you know why Org-mode doesn't show up? You ask Emi. But Emi doesn't understand these questions. Or is she pretending?
+
+"Emi wants to ask you:" Emi suddenly asks "What is your favourite punctuation mark?"
+
+That's an odd question to ask in such a dire situation. But that's fine because we are all stuck in such a crazy world. You told Emi your favourite punctuation?
+
+"How about Emi's? What's Emi's favorite punctuation mark? or Marks?"
+
+Actually you don't want to guess. But once again, Emi and you are stuck. So you ask Emi to give you some hints.
+
+"Emi's favourite punctuation mark usually comes in pair. And it's not square or curly..." Emi tells you.
+
+OK, that is easy. And you want to tell Emi her favourite punctuation mark.
+
+Then Emi's terminal displays:
+
+#+BEGIN_QUOTE
+*guess-emi-favourite-punct*
+#+END_QUOTE
+
+#+RECAP: Emi's toolbox
+
+|------------------------------+-----------------------------------------------------------|
+| Technique                    | How to do that                                            |
+|------------------------------+-----------------------------------------------------------|
+| Evaluate a code block        | Move the cursor inside the code block and press `C-c C-c` |
+|                              |                                                           |
+| Emi's help system: Function  | C-h f (\C\ontrol \h\elp \f\unction)                       |
+|                              |                                                           |
+| Emi's help system: Check key | C-h k (\C\ontrol \h\elp \k\eys)                           |
+|                              |                                                           |
+| Keyboard quit                | C-g                                                       |
+|------------------------------+-----------------------------------------------------------|

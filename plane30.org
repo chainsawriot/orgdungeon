@@ -1,0 +1,58 @@
+That was tricky. You recall. Probably there will be more password-protected functions! But you solved it and you and Emi jumped to another plane.
+
+'########::'##::::::::::'###::::'##::: ##:'########:::::'#######::::'#####:::
+ ##.... ##: ##:::::::::'## ##::: ###:: ##: ##.....:::::'##.... ##::'##.. ##::
+ ##:::: ##: ##::::::::'##:. ##:: ####: ##: ##::::::::::..::::: ##:'##:::: ##:
+ ########:: ##:::::::'##:::. ##: ## ## ##: ######:::::::'#######:: ##:::: ##:
+ ##.....::: ##::::::: #########: ##. ####: ##...::::::::...... ##: ##:::: ##:
+ ##:::::::: ##::::::: ##.... ##: ##:. ###: ##::::::::::'##:::: ##:. ##:: ##::
+ ##:::::::: ########: ##:::: ##: ##::. ##: ########::::. #######:::. #####:::
+..:::::::::........::..:::::..::..::::..::........::::::.......:::::.....::::
+
+Plane 30? Wow! You wonder how many planes are there. But you are more interested in escaping.
+
+You sure have *emi-escape-30*, right? You ask Emi.
+
+"Emi doesn't have *emi-escape-30*." Emi answers.
+
+Holy moly! And you query Emi's terminal. She didn't lie: She doesn't have the function *emi-escape-30*.
+
+You don't know what to do. And then Emi's stomach terminal display changes.
+
+  ______    _ _                 _   _            _           _                   _   _                 
+ |  ____|  | | |               | | | |          (_)         | |                 | | (_)                
+ | |__ ___ | | | _____      __ | |_| |__   ___   _ _ __  ___| |_ _ __ _   _  ___| |_ _  ___  _ __  ___ 
+ |  __/ _ \| | |/ _ \ \ /\ / / | __| '_ \ / _ \ | | '_ \/ __| __| '__| | | |/ __| __| |/ _ \| '_ \/ __|
+ | | | (_) | | | (_) \ V  V /  | |_| | | |  __/ | | | | \__ \ |_| |  | |_| | (__| |_| | (_) | | | \__ \
+ |_|  \___/|_|_|\___/ \_/\_/    \__|_| |_|\___| |_|_| |_|___/\__|_|   \__,_|\___|\__|_|\___/|_| |_|___/
+
+#+BEGIN_QUOTE
+FOLLOW THE INSTRUCTIONS
+- - - -
+It's true that Emi doesn't have the function emi-escape-30. But I can tell you that the function to escape this plane is mapped to the key combination `C-c M-o`. But I think it would be helpful to learn more about Emi's help system.
+
+You can check the "mapping" of a key combination by using Emi's help system. A key combination is always bound to a function. We can either say a function is _mapped_ to a function; or a function is _bound_ to a key combination. Even the arrow keys in Emi are mapped to a function!
+
+You can trigger Emi's help system for checking key combinations using `C-h k` (\C\ontrol `h`elp `k`eys). And then press the key combination you want to query. For example, you want to check the function that has been bound to `C-g`, you can press `C-g` there. And it will tell you what function the key combination is bound to. In the case of `C-g`, the documentation would say:
+
+"It is bound to C-g.
+
+(keyboard-quit)"
+
+The name of the function that is mapped to C-g is "keyboard-quit". You can infer it from the line (keyboard-quit).
+- - - -
+#+END_QUOTE
+
+OK, `C-c M-o` to escape, easy peasy.
+
+#+RECAP: Emi's toolbox
+
+|-----------------------------+-----------------------------------------------------------|
+| Technique                   | How to do that                                            |
+|-----------------------------+-----------------------------------------------------------|
+| Evaluate a code block       | Move the cursor inside the code block and press `C-c C-c` |
+|                             |                                                           |
+| Emi's help system: Function | C-h f (\C\ontrol \h\elp \f\unction)                       |
+|                             |                                                           |
+| Keyboard quit               | C-g                                                       |
+|-----------------------------+-----------------------------------------------------------|

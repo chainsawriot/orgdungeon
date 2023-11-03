@@ -1,0 +1,53 @@
+After you "evaluated the code" inside that "code block" (whatever that means), you and Emi jumped to another place. It seems that _"evaluate the code" is just a fancy way to say "run the code"_.
+
+You look around this place. Unlike the last place, this plane does have something: a big sign
+
+'########::'##::::::::::'###::::'##::: ##:'########:::::::'##:::::'#####:::
+ ##.... ##: ##:::::::::'## ##::: ###:: ##: ##.....::::::'####::::'##.. ##::
+ ##:::: ##: ##::::::::'##:. ##:: ####: ##: ##:::::::::::.. ##:::'##:::: ##:
+ ########:: ##:::::::'##:::. ##: ## ## ##: ######::::::::: ##::: ##:::: ##:
+ ##.....::: ##::::::: #########: ##. ####: ##...:::::::::: ##::: ##:::: ##:
+ ##:::::::: ##::::::: ##.... ##: ##:. ###: ##::::::::::::: ##:::. ##:: ##::
+ ##:::::::: ########: ##:::: ##: ##::. ##: ########:::::'######::. #####:::
+..:::::::::........::..:::::..::..::::..::........::::::......::::.....::::
+
+"You are trapped in a dungeon called _dungeon.org_." Emi says.
+
+Dungeon dot org? Is it a website? You asked.
+
+"No. This is how the whole thing is represented. To say it is a 'dungeon' is not correct. It is more like a collection of worlds called planes. Each plane is one parallel world and there should be a plane that represents the world that you are familiar with. Your plane. Your world, you could say. When you arrive at your plane, you can live like you usually do."
+
+[img]
+
+Holy moly! Do you know which plane is my plane? Is it the Plane 10? You ask.
+
+"Emi doesn't know which plane is your world. But Emi and you can explore all the planes together and find out your plane."
+
+Obviously Plane 10 is not my plane. Let's get out of here. You ask.
+
+"Emi and you can't just 'get out of here'." Emi says.
+
+Ah what? You ask.
+
+"Inside Emi there is a program called _Org-mode_. You need to talk to that program to escape a plane." Emi says.
+
+There is one more thing you can't understand what Emi has said. What's "Odd Mold"? Such an odd name.
+
+But whatever. You tell Emi, in an ordering tone: whatever odd mold, escape this plane!
+
+"No. Emi's Org-mode doesn't speak English. Emi's Org-mode can only speak a language called *Emacs Lisp*. Or elisp for ..."
+
+Emi stops speaking. And her stomach terminal display changes again.
+                                                                                                       
+#+BEGIN_QUOTE
+FOLLOW THE INSTRUCTIONS
+- - - -
+I am Org-mode, the communication logic of Emi. Emi said it imprecisely. Actually, I know English. At least, I can display instructions to you precisely in English. But you must talk to me in Emacs Lisp. Or more precisely, you need to write program in Emacs Lisp to instruct me to make your jump between planes. The locations in parallel universes need to be programmed precisely and English is not precise enough for that.
+
+But you might not know my very precise mother tongue. But luckily, all the things inside Emi are _self-documented_. You need to know how to use Emi's "help system". The function that you need to use to break out of this plane is called *emi-escape-10*. What I want you to do is to learn how to use that program through Emi's help system. The key combination is ~C-h f~ (You can remember it as: /C/ontrol /h/elp for /f/uctions). And then enter the name of the function. Follow the documentation to escape the plane. _It is a good practice to check the documentation of any function that you are going to run._
+
+You might have seen things such as *emi-escape-10*, _dungeon.org_ and ~C-h f~. The formatting is called "markup". We will use these formats to represent function names, emphases (keywords, variable names), and key combinations respectively. But their actually names are emi-escape-10, dungeon.org and C-h f. You don't need to consider those markups when you needs to use these names in your program. As the communication logic of Emi, those markups improve our communication.
+- - - -
+#+END_QUOTE
+
+Again, you don't understand 100% what the instructions say. But you decided to give it a try.

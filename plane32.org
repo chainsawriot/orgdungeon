@@ -1,0 +1,34 @@
+OK, you and Emi jumped to yet another plane.
+
+You started to notice something: these puzzles look increasingly artificial. It doesn't need to be with those passwords, or different ways of launching those functions. You want to find somebody to ask why those functions needed to be so artificial. Am I being tricked? Where is the camera?  The only "person", however, that you can ask is Emi. She doesn't seem to understand those questions. The whatever org-mode inside Emi is almost like a monologue machine. It only displays messages when he feels like to do so. Also, in the previous plane, he didn't to be that secretive.
+
+Emi is also problematic. In some planes, she talked like a human. In other planes, she talked more like a dog.
+
+There must be a conspiracy behind all these...
+
+"*emi-escape-32*, Emi has!" Emi's saying breaks your thinking. And this time, she talks like Yoda.
+
+ORG! ORG! We need to talk! You scream.
+
+And finally:
+
+#+BEGIN_QUOTE
+It's me. But unfortunately, we can't "talk". I will not answer you questions. Instead, Emi should be the one answering your questions. I can only show you what one should do. To say I am the communication logic is an over-statement. I am actually more like a notetaking system. I have been used to write down the actual thoughts of Emi, or someone else's. I have some powerful features too. But answering your questions is not one of my features. If you want someone to actually listen to your questions, you should talk to Dr ELIZA (*doctor*). Dr ELIZA is probably the real communication layer of Emi and she almost passed the Turing's test.
+
+Your intuition is correct. These so-called planes are artificial. By "artificial", I mean those worlds are created by a person similar to you. It's also that person created those puzzles. Unlike worlds that are natural, such as a forest or an ocean, these planes have a specific way to escape them.
+
+Also unlike natural worlds, there are a specific way to create these artificial worlds. A large part of it is text in a natural language such as English. This part is used largely to describe the world. Planes, Org, ELIZA, Emi and most importantly, the concept of "you". It describes the actors, the relationship between actors, what they do, how they do, and why they do. Novelists, screenwriters, playwrights have long been using natural languages to construct worlds.
+
+But I think you should also perceive that the worlds here are not the same as a novel, a screenplay, or an opera. Apart from the mediocre writing, there is interactive quality in these artificial worlds. Those interactive parts are computer programs. But in the end, they are just text written in another language called Lisp. And Lisp is not a natural language, but a computer language.
+
+In the previous example, you have actually written a very simple Lisp program and evaluated it using ~M-:~.
+
+(emi-escape-13)
+
+Lisp program can be constructed with S-expressions. And an S-expression starts with an open parenthesis and ends with a close parenthesis. The first element after the open parenthesis is the name of the function you want to run. In the last case, that was *emi-escape-13*. Actually, you can try another S-expression.
+
+(+ 1 2)
+
+
+
+#+END_QUOTE
