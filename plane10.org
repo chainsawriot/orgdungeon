@@ -1,4 +1,4 @@
-After you "evaluated the code" inside that "code block" (whatever that means), you and Emi jumped to another place. It seems that _"evaluate the code" is just a fancy way to say "run the code"_.
+After you "evaluated the code" inside that "code block" (whatever that means), you and Emi jumped to another place. It seems that _"evaluate the code" is just a fancy way to say _"run the instructions"_.
 
 You look around this place. Unlike the last place, this plane does have something: a big sign
 
@@ -13,41 +13,41 @@ You look around this place. Unlike the last place, this plane does have somethin
 
 "You are trapped in a dungeon called _dungeon.org_." Emi says.
 
-Dungeon dot org? Is it a website? You asked.
+Dungeon dot org? Is it a website? You ask.
 
-"No. This is how the whole thing is represented. To say it is a 'dungeon' is not correct. It is more like a collection of worlds called planes. Each plane is one parallel world and there should be a plane that represents the world that you are familiar with. Your plane. Your world, you could say. When you arrive at your plane, you can live like you usually do."
+"No. This is how an imaginary world is represented. To say it is a 'dungeon' is incorrect. It is more like a collection of worlds called planes. Each plane is one parallel world, but there is a plane that represents the world that you come from. Your plane. "Your world" you could say. When you arrive at your plane, you can leave these strange worlds behind and live in your comfy place."
 
 [img]
 
-Holy moly! Do you know which plane is my plane? Is it the Plane 10? You ask.
+Holy cow! Do you know the plane I come from? Is it the Plane 10? You ask.
 
-"Emi doesn't know which plane is your world. But Emi and you can explore all the planes together and find out your plane."
+"Emi doesn't shakes herself left and right as if to say no. But you realize that Emi and you can explore other planes as a team to ultimately find your way back to your plane."
 
-Obviously Plane 10 is not my plane. Let's get out of here. You ask.
+Obviously Plane 10 is not my comfy plane. Let's leave this place and go to another plane, you suggest.
 
-"Emi and you can't just 'get out of here'." Emi says.
+"Emi and you can't just 'leave this place'." Emi says.
 
-Ah what? You ask.
+Ah what? You exclaim.
 
-"Inside Emi there is a program called _Org-mode_. You need to talk to that program to escape a plane." Emi says.
+Emi responds, "Inside Emi there is a program called _Org-mode_. You will need to talk to that program to escape a plane."
 
-There is one more thing you can't understand what Emi has said. What's "Odd Mold"? Such an odd name.
+You think to yourself, What did Emi just say? Odd Mold? What's "Odd Mold"? It sounds like such a strange name.
 
-But whatever. You tell Emi, in an ordering tone: whatever odd mold, escape this plane!
+Whatevs, you tell Emi, in an bold tone: whatever odd mold, NOW I ORDER YOU TO ESCAPE THIS PLANE!
 
-"No. Emi's Org-mode doesn't speak English. Emi's Org-mode can only speak a language called *Emacs Lisp*. Or elisp for ..."
+"I'm sorry, but I can't do that. Emi's Org-mode doesn't speak regular English. Emi's Org-mode can only speak a language called *Emacs Lisp*. Or elisp for ..."
 
-Emi stops speaking. And her stomach terminal display changes again.
+Emi abruptly stops speaking, and you notice that her tummy terminal display has changed again.
                                                                                                        
 #+BEGIN_QUOTE
-FOLLOW THE INSTRUCTIONS
+FOLLOW THESE INSTRUCTIONS
 - - - -
-I am Org-mode, the communication logic of Emi. Emi said it imprecisely. Actually, I know English. At least, I can display instructions to you precisely in English. But you must talk to me in Emacs Lisp. Or more precisely, you need to write program in Emacs Lisp to instruct me to make your jump between planes. The locations in parallel universes need to be programmed precisely and English is not precise enough for that.
+I am Org-mode, Emi's communication logic. Emi stated it imprecisely. Actually, I know English. At least, I can display instructions to you precisely in English. But you must talk to me in Emacs Lisp. Or more precisely, you need to write programs in Emacs Lisp. Only then will you be able to instruct me to jump between planes. The locations in parallel universes need to be programmed precisely and English is not precise enough for that task.
 
-But you might not know my very precise mother tongue. But luckily, all the things inside Emi are _self-documented_. You need to know how to use Emi's "help system". The function that you need to use to break out of this plane is called *emi-escape-10*. What I want you to do is to learn how to use that program through Emi's help system. The key combination is ~C-h f~ (You can remember it as: /C/ontrol /h/elp for /f/uctions). And then enter the name of the function. Follow the documentation to escape the plane. _It is a good practice to check the documentation of any function that you are going to run._
+But you might not know MY very precise mother tongue. Luckily, all the logic inside Emi is _self-documented_. You merely need to know how to use Emi's "help system" to read the friendly manual of documentation. The escape function you desire is called *emi-escape-10*. To learn Emi's help system use your keyboard. Press the control and ~h~ keys down at the same time. Lift your fingers then press ~f~ (You can remember it as: /C/ontrol /h/elp for /f/uctions). Functions are English words with minus symbols between them. ~-~ Enter the escape function I mentioned previously. A magic window will appear below your plane to provide help. Follow the documentation to escape the plane. _It is a good practice to check the documentation of any function that you are going to run._
 
-You might have seen things such as *emi-escape-10*, _dungeon.org_ and ~C-h f~. The formatting is called "markup". We will use these formats to represent function names, emphases (keywords, variable names), and key combinations respectively. But their actually names are emi-escape-10, dungeon.org and C-h f. You don't need to consider those markups when you needs to use these names in your program. As the communication logic of Emi, those markups improve our communication.
+You might have noticed things such as the stars, underscores, and tilde characters in front of *emi-escape-10*, _dungeon.org_ and ~C-h f~. The formatting commands we're using is called "markup". We will use these formats to represent function names, emphasize keywords and indicate variable names and key combinations respectively. But their actually names are emi-escape-10, dungeon.org and C-h f. Don't type those markup indicators when you use these names in your program. As the communication logic of Emi, those markups improve our communication.
 - - - -
 #+END_QUOTE
 
-Again, you don't understand 100% what the instructions say. But you decided to give it a try.
+You may not understand 100% of what the instructions say. But give it a try and you will soon understand more and more.
